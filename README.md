@@ -3,7 +3,7 @@
 
 ## 1. 한 단계 낮은 제목
 
-## Texts
+## 글씨체
 *italic*
 **bold**
 ***bold-italic***
